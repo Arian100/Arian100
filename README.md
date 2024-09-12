@@ -21,8 +21,10 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://modrinth.com/modpack/pvp-smp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Arian100&repo=PVP-SMP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PVP-SMP"></a>
+    <a href="https://github.com/PaperMC/Paper"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=PaperMC&repo=Paper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Paper"></a>
     <a href="https://github.com/dmulloy2/ProtocolLib"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dmulloy2&repo=ProtocolLib&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ProtocolLib"></a>
+    <a href="https://github.com/Hexeption/MCP-Reborn"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Hexeption&repo=MCP-Reborn&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MCP-Reborn"></a>
+    <a href="https://modrinth.com/modpack/pvp-smp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Arian100&repo=PVP-SMP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PVP-SMP"></a>
 
   </p>
 
