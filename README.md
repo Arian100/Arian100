@@ -1,8 +1,8 @@
-# Hi there 👋 Im _Arian_ and an indie software developer
+# 👋 Hi there Im _Arian_ and an indie software developer
 
-### Language & Tools
+### 🔧 Language & Tools
 
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://i.pinimg.com/736x/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.jpg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png"/>
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
@@ -15,5 +15,13 @@
 <br />
 
 #
+
+### ⭐ About me
+
+### 📊 Stats
+
+![Arian's GitHub stats](https://github-readme-stats.vercel.app/api?username=arian100&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Arian100&theme=gruvbox&border_radius=4.5)
 
 
