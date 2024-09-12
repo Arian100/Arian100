@@ -1,4 +1,4 @@
-# 👋 Hi there Im _Arian_ and an indie software developer
+# Hi there 👋, Im Arian
 
 ### 🔧 Language & Tools
 
@@ -16,12 +16,18 @@
 
 #
 
-### ⭐ About me
+
+### 📘 Projects I've worked on / contributed to</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/Arian100/PVP-SMP"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Arian100&PVP-SMP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PVP-SMP"></a>
+
+  </p>
+
+<a href="https://github.com/Arian100?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
 
 ### 📊 Stats
 
-![Arian's GitHub stats](https://github-readme-stats.vercel.app/api?username=arian100&show_icons=true&theme=gruvbox)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Arian100&theme=gruvbox&border_radius=4.5)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arian100&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=Arian100&theme=gruvbox&border_radius=4.5)
