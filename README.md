@@ -8,25 +8,11 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://ih1.redbubble.net/image.1160202250.8174/st,small,845x845-pad,1000x1000,f8f8f8.jpg"/>
-<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgbzUuAfmCXSjLUkPNBR1YkDiONbBsCezrw&s"/>
-<img align="left" alt="Paper" width="30px" style="padding-right:10px;" src="https://papermc.io/assets/logo/256x.png"/>
-<img align="left" alt="Forge" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRle4VWQdMQPGuWoIo1I8D-m9DGPmkjayIfiA&s"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo-300x300.png"/>
 <br />
 
 #
-
-
-### 📘 Projects I've worked on / contributed to</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/PaperMC/Paper"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=PaperMC&repo=Paper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Paper"></a>
-    <a href="https://github.com/dmulloy2/ProtocolLib"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dmulloy2&repo=ProtocolLib&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ProtocolLib"></a>
-    <a href="https://github.com/Hexeption/MCP-Reborn"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Hexeption&repo=MCP-Reborn&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MCP-Reborn"></a>
-    <a href="https://modrinth.com/modpack/pvp-smp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Arian100&repo=PVP-SMP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PVP-SMP"></a>
-
-  </p>
 
 <a href="https://github.com/Arian100?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
