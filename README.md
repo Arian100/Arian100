@@ -1,16 +1,26 @@
 # Hi there 👋, Im Arian
 
-### 🔧 Language & Tools
+### 💻 Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png"/>
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png"/>
+<br/>
+
+<p>
+
+#
+
+### 🔧 Tools
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo-300x300.png"/>
-<br />
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo-300x300.png"/>
+<img align="left" alt="Ubunut" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/960px-UbuntuCoF.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail">
+<br/>
+<p>
 
 #
 
