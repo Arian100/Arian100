@@ -15,8 +15,3 @@
 #
 
 <a href="https://github.com/Arian100?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-
-### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arian100&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=Arian100&theme=gruvbox&border_radius=4.5)
